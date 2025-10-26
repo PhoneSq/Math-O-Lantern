@@ -1,0 +1,10 @@
+﻿  Bullet.cpp
+  Enemy.cpp
+C:\Users\Bhone Myat Min\Desktop\MathHorror\MathHorrorGame\Enemy.cpp(62,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+  Map.cpp
+  Player.cpp
+  TextureManager.cpp
+  main.cpp
+  Generating Code...
+  MathHorrorGame.vcxproj -> C:\Users\Bhone Myat Min\Desktop\MathHorror\MathHorrorGame\Debug\MathHorrorGame.exe
