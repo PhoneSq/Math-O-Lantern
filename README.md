@@ -18,9 +18,10 @@ Launch MathHorrorGame.exe in the project folder.
 
 Use the keyboard to move and interact (WASD).
 
-Solve math puzzles when prompted to survive each level.
+Solve math puzzles when prompted to survive each encounter.
 
 Avoid monsters — touching them sends you back or deducts points.
+(Only if you fail the math question)
 
 💻 Development Notes
 
